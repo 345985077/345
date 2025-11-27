@@ -1,0 +1,64 @@
+[steel_company_website.html](https://github.com/user-attachments/files/23783195/steel_company_website.html)
+
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>河北万浦钢铁贸易有限公司</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+  <style>
+    body { font-family: Arial, sans-serif; margin: 0; padding: 0; }
+    header { background: #333; color: white; padding: 20px; text-align: center; }
+    section { padding: 40px 20px; }
+    .container { max-width: 1200px; margin: 0 auto; }
+    h2, h3 { font-size: 24px; color: #333; }
+    .product-item { display: inline-block; width: 30%; margin: 10px; padding: 20px; background: #f4f4f4; text-align: center; }
+    .product-item img { width: 100%; height: auto; border-radius: 10px; }
+    footer { background: #333; color: white; text-align: center; padding: 10px; position: fixed; width: 100%; bottom: 0; }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>河北万浦钢铁贸易有限公司</h1>
+  <p>优质不锈钢与碳钢供应商</p>
+</header>
+
+<section id="about" class="container">
+  <h2>公司介绍</h2>
+  <p>河万浦钢铁贸易有限公司专注于钢板和钢管的批发与出口，主要产品包括不锈钢、碳钢型材、碳钢板卷和不锈钢管材，致力于为全球客户提供高质量钢铁产品。我们公司拥有出口资质，产品广泛应用于建筑、机械制造、化工等行业。</p>
+</section>
+
+<section id="products" class="container">
+  <h2>产品展示</h2>
+  <div class="product-item">
+    <img src="https://via.placeholder.com/300" alt="不锈钢板卷">
+    <h3>不锈钢板/卷</h3>
+    <p>冷轧不锈钢板、不锈钢卷，适用于食品加工、化工设备等。</p>
+  </div>
+  <div class="product-item">
+    <img src="https://via.placeholder.com/300" alt="碳钢型材">
+    <h3>碳钢型材</h3>
+    <p>工字钢、角钢、槽钢、H 型钢，适用于建筑、桥梁支架等。</p>
+  </div>
+  <div class="product-item">
+    <img src="https://via.placeholder.com/300" alt="钢管">
+    <h3>钢管</h3>
+    <p>包括碳钢、无缝钢管、焊管，适用于各类工业项目。</p>
+  </div>
+</section>
+
+<section id="contact" class="container">
+  <h2>联系我们</h2>
+  <p>电话：13031010381</p>
+  <p>邮箱：robin@foxmail.com</p>
+  <p>LinkedIn: <a href="https://linkedin.com/in/众钦-温-3b3205385" target="_blank">众钦-温</a></p>
+</section>
+
+<footer>
+  <p>&copy; 2025 河北万浦钢铁贸易有限公司 版权所有</p>
+</footer>
+
+</body>
+</html>
